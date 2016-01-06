@@ -1,7 +1,6 @@
 BILL OF MATERIALS - PARTS TO BUILD THE CIRCUIT
 ----------------------------------------------
 Input:
-======
 
 [Piezo Element](https://www.sparkfun.com/products/10293)
 
