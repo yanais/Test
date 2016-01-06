@@ -1,24 +1,43 @@
 BILL OF MATERIALS - PARTS TO BUILD THE CIRCUIT
 ----------------------------------------------
 Input:
+
 [Piezo Element](https://www.sparkfun.com/products/10293)
+
 [SparkFun IR Receiver Breakout - TSOP85](https://www.sparkfun.com/products/8554)
+
 [SparkFun Digital Temperature Sensor Breakout - TMP102](https://www.sparkfun.com/products/11931)
+
 [SparkFun Soil Moisture Sensor](https://www.sparkfun.com/products/13322)
+
 [SparkFun Triple Axis Accelerometer Breakout - ADXL345](https://www.sparkfun.com/products/9836)
+
 [Mini Photocell](https://www.sparkfun.com/products/9088)
+
 [SparkFun Electret Microphone Breakout](https://www.sparkfun.com/products/9964)
+
 [SparkFun Capacitive Touch Sensor Breakout - MPR121](https://www.sparkfun.com/products/9695)
+
 [PIR Motion Sensor (JST)](https://www.sparkfun.com/products/13285)
+
 [SparkFun RGB Light Sensor - ISL29125](https://www.sparkfun.com/products/12829)
+
 [Load Sensor - 50kg](https://www.sparkfun.com/products/10245)
+
 [Ultrasonic Range Finder - LV-MaxSonar-EZ1](https://www.sparkfun.com/products/639)
+
 [Piezo Vibration Sensor - Large with Mass](https://www.sparkfun.com/products/9197)
+
 [SparkFun Triple Axis Magnetometer Breakout - HMC5883L](https://www.sparkfun.com/products/10530)
+
 [SparkFun Triple-Axis Digital-Output Gyro Breakout - ITG-3200](https://www.sparkfun.com/products/11977)
+
 [Force Sensitive Resistor 0.5"](https://www.sparkfun.com/products/9375)
+
 [SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2](https://www.sparkfun.com/products/11084)
+
 [Flex Sensor 4.5"](https://www.sparkfun.com/products/8606)
+
 [Rotary Potentiometer - 10k Ohm, Linear](https://www.sparkfun.com/products/9939)
 
 Output:
