@@ -1,7 +1,7 @@
 BILL OF MATERIALS - PARTS TO BUILD THE CIRCUIT
 ----------------------------------------------
 Input:
-[Piezo Element](https://www.sparkfun.com/products/10293)
+[Piezo Element](https://www.sparkfun.com/products/10293)\
 [SparkFun IR Receiver Breakout - TSOP85](https://www.sparkfun.com/products/8554)
 [SparkFun Digital Temperature Sensor Breakout - TMP102](https://www.sparkfun.com/products/11931)
 [SparkFun Soil Moisture Sensor](https://www.sparkfun.com/products/13322)
